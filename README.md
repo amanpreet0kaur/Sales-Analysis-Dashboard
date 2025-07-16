@@ -1,6 +1,6 @@
 
 
-# 📊 Power BI Sales Dashboard – README
+#  Power BI Sales Dashboard 
 
 ## 🧾 Overview
 
