@@ -22,8 +22,8 @@ It includes detaied dashboards of sales, yearly sales and stores.
 | **YoY Revenue %**         | Year-over-Year change in revenue (%)                  |
 
 ---
+<img width="1278" height="708" alt="image" src="https://github.com/user-attachments/assets/07fc1015-abf0-49f1-9d2c-d11d3ce02d4a" />
 
-<img width="1211" height="676" alt="image" src="https://github.com/user-attachments/assets/af684b73-48bd-4e7b-9e12-68ee425b75c6" />
 
 
 
